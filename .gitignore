@@ -1,0 +1,8 @@
+/target
+/project/target
+/project/project/target
+/logs
+/libexec
+/bin
+/.idea
+.DS_Store

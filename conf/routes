@@ -1,0 +1,4 @@
+GET     /events/:id                 controllers.StubhubController.getEvent(id: String)
+GET     /venues/:id                 controllers.StubhubController.getVenue(id: String)
+
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
